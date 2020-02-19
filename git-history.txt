@@ -1,0 +1,59 @@
+commit 017b579cb75d9366e96fe4bad41b9cbbf81fa773
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 13:44:16 2020 +0100
+
+    rename test again
+
+commit f55632ac530474e386cfec9c25a3ef00343df503
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 13:27:50 2020 +0100
+
+    rename lorem to lorem_ipsum.txt
+
+commit b07e4e67fc4a132c089371ab91f68cc2f64763fe
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 13:20:58 2020 +0100
+
+    plus 3 more sentences into Lorem.txt
+
+commit 50a56dd443affb0eb15bb108a22059d276985a24
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 13:05:53 2020 +0100
+
+    lorem updated first sentence by Wadkan
+
+commit d3a4ca70f4e042d7feb7bc422054ea05bb557da3
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 12:56:46 2020 +0100
+
+    add #
+
+commit c074a8a817630542a7808b116dae25915c423c20
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 12:40:25 2020 +0100
+
+    re .gitignore
+
+commit e0e88f64fc3ba8e4828aab6a24d7afebd665a1f4
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 11:21:35 2020 +0100
+
+    second commit
+
+commit 9766586eb18d173b0d7f45b736f32cdc349e1845
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Wed Feb 19 11:12:32 2020 +0100
+
+    first
+
+commit 9d2281e0769e0da477c32e5f684e3a98c30906e3
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Thu Feb 13 21:55:19 2020 +0100
+
+    hello hej
+
+commit d48e9dd994a905c497e1273c3c410010ffdce44b
+Author: Wadkan <zsoltgaramszegi@gmail.com>
+Date:   Thu Feb 13 21:49:36 2020 +0100
+
+    hello hej
